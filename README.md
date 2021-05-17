@@ -32,5 +32,6 @@ If you have a computer industry, and you want to sale your computers all over th
 the most often used types of computer all over the world, you may only consider several large countries and focus on 3 main types 
 of computer -- desktop, laptop (can not be used as a notebook), laptop (can be used as a notebook). Analysis this data set you 
 will know which country has most customers and which type of computers is the most popular. 
+
 ![1621212908(1)](https://user-images.githubusercontent.com/49871539/118419107-1724e200-b689-11eb-94b9-e84f42997c7e.png)
 ![1621212935(1)](https://user-images.githubusercontent.com/49871539/118419108-1724e200-b689-11eb-9d64-f1dbe141fb23.png)
